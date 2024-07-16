@@ -261,7 +261,7 @@ img {
 
 /*page*/
 .intro {
-  background-image: url("/img/background-img.png");
+  background-image: url("./img/background-img.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -277,7 +277,7 @@ img {
     color: white;
     background-color: black;
     img {
-      content: url("img/arrow_outward-white.png");
+      content: url("./img/arrow_outward-white.png");
     }
   }
 }
@@ -289,7 +289,7 @@ img {
     color: black;
     background-color: white;
     img {
-      content: url("img/arrow_outward.png");
+      content: url("./img/arrow_outward.png");
     }
   }
 }
